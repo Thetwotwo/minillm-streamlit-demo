@@ -127,8 +127,8 @@ tokenizers==0.15.2
 toml==0.10.2
 torch==2.4.1+cu121
 torch4keras==0.2.7
-torchaudio==2.4.1+cu121
-torchvision==0.19.1+cu121
+torchaudio==2.4.1
+torchvision==0.19.1
 tornado==6.4.2
 tqdm==4.67.0
 transformers==4.38.2
